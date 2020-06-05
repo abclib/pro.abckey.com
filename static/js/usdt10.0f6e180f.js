@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([["usdt10"],{"470a":function(e,t,n){"use strict";n.r(t);var u={name:"eth"},r=n("2877"),s=Object(r.a)(u,(function(){var e=this.$createElement,t=this._self._c||e;return t("div",[t("router-view")],1)}),[],!1,null,null,null);t.default=s.exports}}]);
